@@ -6,7 +6,8 @@
         {
             Console.WriteLine("Logical Programs");
             //FibonacciSeries.ClaculateFibonacciSeries();
-            PerfectNumber.CheckPerfectNumber();
+            //PerfectNumber.CheckPerfectNumber();
+            PrimeNumber.CheckPrimeNumber();
         }
     }
 }
